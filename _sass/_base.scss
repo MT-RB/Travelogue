@@ -18,7 +18,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-    background-iamge: url(https://cdn.shutterstock.com/shutterstock/videos/13913471/thumb/1.jpg);
+    background:$grey-color-light;
     color: $text-color;
     font-family: $base-font-family;
     font-size: $base-font-size;
@@ -135,7 +135,7 @@ blockquote {
  */
 pre,
 code {
-    background-color: #eef;
+    background-image: url(http://img02.deviantart.net/7874/i/2012/364/e/b/hex_by_cyntehl-d5pqtmj.png);
     font-family: $base-font-family-mono;
     font-size: 15px;
 }
