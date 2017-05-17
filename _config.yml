@@ -1,9 +1,9 @@
 # Site settings
 name: Travelogue
-description: 'A minimal, single-column Jekyll theme that provides an immersive read experience for your readers'
+description: 'A Blog for me to put my opinions and progress on my work.'
 
 baseurl: '' # the subpath of your site, e.g. /blog
-url: 'http://yourdomain.com' # the base hostname & protocol for your site
+url: 'http://mt-rb.github.io' # the base hostname & protocol for your site
 
 # Build settings
 markdown:            kramdown
@@ -15,9 +15,9 @@ paginate:            8
 paginate_path:       page/:num/
 
 author:
-    name: 'Salvatore Gentile'
-    email: ''
-    uri: 'https://github.com/SalGnt'
+    name: 'Max B'
+    email: 
+    uri:
 
 sass:
     sass_dir: _sass
